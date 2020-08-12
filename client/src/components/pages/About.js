@@ -8,7 +8,7 @@ import React from 'react';
                 This is a full stack react app for keeping contacts
             </p>
             <p className="bg-dark p">
-                <strong>Version: </strong> 1.0
+                <strong>Version: </strong> 1.1
             </p>
         </div>
     );
